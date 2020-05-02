@@ -1,0 +1,54 @@
+h1 {
+    background-color: bisque; 
+    font-weight: 700;
+    color: rgb(141, 8, 8);
+    font-style: oblique;
+    margin: 50px;
+    background-image: url(nong.jpg);
+    background-size: 50%;
+    width: 50%;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    border: orange 4px solid;
+    letter-spacing: 8.5px;
+    padding: 20px;
+}
+
+body {
+    background-color: pink;
+}
+
+p {
+    font-style: oblique;
+    margin-left: 20px;
+}
+#para-one {
+    text-align: center;
+    background-color: cadetblue;
+    text-decoration: line-through;
+    background-color: antiquewhite;
+}
+#para-two {
+    text-decoration: underline overline;
+}
+#para-three {
+    text-transform: capitalize;
+    line-height: 50px;
+    background-color: antiquewhite;
+    padding: 50px;
+
+}
+
+#para-six {
+    font-size: 25px;
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+.para-fourfive {
+    background-color: rgb(182, 7, 33);
+    float: left;
+    margin-inline-start: 2%;
+    margin-inline-end: 2%;
+}
